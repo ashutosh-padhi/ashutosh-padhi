@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ashutosh-padhi
+- 👀 I’m interested in web development, artificial intelligence, mathematics and many more.
+- 🌱 I’m currently learning different web architectures.
+- 💞️ I’m looking to collaborate on anything open source and helpful to make life more productive and fun.
